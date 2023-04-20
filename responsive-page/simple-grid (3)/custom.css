@@ -1,0 +1,32 @@
+img{
+  border-radius: 50%; 
+  size: small;
+  width: 150px;
+  height: 150px;
+}
+.navbar img{
+    border-radius: 50%;
+    size: small;
+    width: 30px;
+    height: 30px;
+
+}
+.box{
+    border: 1px solid slategray;
+    padding-bottom: 0.5em;
+   
+}
+.btn {
+  display: block;
+  /* background-color: white; */
+  color: black;
+  margin: 5px 5px;
+  padding: 3px;
+  cursor:pointer;
+}
+
+.btn:hover{
+  background: cornflowerblue;
+  color: black;
+  transition: 0, 3s;
+}
