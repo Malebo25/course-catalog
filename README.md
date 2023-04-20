@@ -23,7 +23,7 @@ Commit your work to GitHub once done and email `mentors@projectcodex.co` by **16
 
 ## Work submission
 
-Send your *GitHub Pages* URL and the URL to your *GitHub repository* .
+Check you EMAIL for the links to submit your *GitHub Pages* URL and the URL to your *GitHub repository* on feedback.projectcodex.co.
 
 ## Loadshedding
 
