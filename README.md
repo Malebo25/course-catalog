@@ -23,7 +23,7 @@ Commit your work to GitHub once done and email `mentors@projectcodex.co` by **16
 
 ## Work submission
 
-Send your *GitHub Pages* URL and the URL to your *GitHub repository* .
+Check your EMAIL for the links to submit your *GitHub Pages* URL and the URL to your *GitHub repository* on feedback.projectcodex.co.
 
 ## Loadshedding
 
@@ -33,9 +33,9 @@ If you are working remotely and you are experiencing load shedding please let us
 
 Spend the first 30 minutes of your assessment on planning. Read through all the different scenarios & create a Kanban Board with the tasks you think you need to complete. Email a link to your Kanban board to `mentors@projectcodex.co`. Create pseudo code using code comments to help you think through what you need to do.
 
-# Ask help
+# Ask for help
 
-Ask if you need help or clarify.
+Ask if you need help or clarity.
 
 
 
