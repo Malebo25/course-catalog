@@ -30,3 +30,6 @@ img{
   color: black;
   transition: 0, 3s;
 }
+.clearfix{
+  overflow:auto;
+}
