@@ -1,6 +1,7 @@
 function courseCost(courseCode, startDateStr){
 
     const startDate = new Date(startDateStr);  
+    var result = {};
 
     const courses = {
         "p1" : {
@@ -20,7 +21,7 @@ function courseCost(courseCode, startDateStr){
     const course = courses[courseCode];
     if (!course) {
         return {
-            status : "Invalid code"
+            status: "Invalid code"
         }
     }
 
